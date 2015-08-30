@@ -1,0 +1,2250 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: New Lotus v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-10-08 09:26:58+0000\n"
+"Last-Translator: admin <tieulehuyet91@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:19
+#: framework/includes/admin/settings/class-kopa-settings-layout-manager.php:147
+#@ new-lotus
+msgid "404"
+msgstr ""
+
+#: 404.php:22
+#@ new-lotus
+msgid "Page not found..."
+msgstr ""
+
+#: 404.php:23
+#@ new-lotus
+msgid "We're sorry, but we can't find the page you were looking for. It's probably some thing we've done wrong but now we know about it we'll try to fix it. In the meantime, try one of this options:"
+msgstr ""
+
+#: 404.php:25
+#@ new-lotus
+msgid "Go back to previous page"
+msgstr ""
+
+#: 404.php:26
+#@ new-lotus
+msgid "Go to homepage"
+msgstr ""
+
+#: comments.php:3
+#@ new-lotus
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:13
+#@ new-lotus
+msgid "NO COMMENTS"
+msgstr ""
+
+#: comments.php:13
+#@ new-lotus
+msgid "1 COMMENT"
+msgstr ""
+
+#: comments.php:13
+#@ new-lotus
+msgid "% COMMENTS"
+msgstr ""
+
+#: comments.php:55
+#@ new-lotus
+msgid "Pingback"
+msgstr ""
+
+#: comments.php:71
+#: comments.php:101
+#@ new-lotus
+msgid "Edit"
+msgstr ""
+
+#: comments.php:133
+#@ new-lotus
+msgid "Name (required)"
+msgstr ""
+
+#: comments.php:136
+#@ new-lotus
+msgid "Email (required)"
+msgstr ""
+
+#: comments.php:139
+#@ new-lotus
+msgid "Website"
+msgstr ""
+
+#: comments.php:146
+#: comments.php:150
+#@ new-lotus
+msgid "Your comment (required)"
+msgstr ""
+
+#: comments.php:156
+#@ new-lotus
+msgid "Your email address will not be published. Required fields are marked"
+msgstr ""
+
+#: comments.php:156
+#@ new-lotus
+msgid "required"
+msgstr ""
+
+#: comments.php:160
+#@ new-lotus
+msgid "LEAVE A REPLY"
+msgstr ""
+
+#: comments.php:163
+#@ new-lotus
+msgid "Post Comment"
+msgstr ""
+
+#: footer.php:9
+#, php-format
+#@ new-lotus
+msgid "Copyright %1$s - Kopasoft. All Rights Reserved."
+msgstr ""
+
+#: framework/includes/abstracts/abstract-kopa-widget.php:261
+#: framework/includes/admin/class-kopa-admin-meta-box.php:360
+#: framework/includes/admin/class-kopa-admin-settings.php:615
+#@ new-lotus
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-assets.php:98
+#: framework/includes/admin/class-kopa-admin-settings.php:711
+#@ new-lotus
+msgid "Enter font name"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-assets.php:100
+#@ new-lotus
+msgid "Custom font"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-assets.php:104
+#: framework/includes/admin/class-kopa-admin-settings.php:716
+#@ new-lotus
+msgid "Upload .woff font file"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-assets.php:109
+#: framework/includes/admin/class-kopa-admin-settings.php:721
+#@ new-lotus
+msgid "Upload .ttf font file"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-assets.php:114
+#: framework/includes/admin/class-kopa-admin-settings.php:726
+#@ new-lotus
+msgid "Upload .eot font file"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-assets.php:119
+#: framework/includes/admin/class-kopa-admin-settings.php:731
+#@ new-lotus
+msgid "Upload .svg font file"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-assets.php:124
+#: framework/includes/admin/class-kopa-admin-assets.php:170
+#: framework/includes/admin/class-kopa-admin-meta-box.php:355
+#: framework/includes/admin/class-kopa-admin-settings.php:610
+#: framework/includes/admin/class-kopa-admin-settings.php:791
+#@ new-lotus
+msgid "Upload"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-assets.php:125
+#: framework/includes/admin/class-kopa-admin-assets.php:171
+#: framework/includes/admin/class-kopa-admin-meta-box.php:357
+#: framework/includes/admin/class-kopa-admin-meta-box.php:367
+#: framework/includes/admin/class-kopa-admin-settings.php:612
+#: framework/includes/admin/class-kopa-admin-settings.php:627
+#: framework/includes/admin/class-kopa-admin-settings.php:793
+#@ new-lotus
+msgid "Remove"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-assets.php:126
+#@ new-lotus
+msgid "Click OK to reset. Any selected settings will be lost!"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-assets.php:127
+#@ new-lotus
+msgid "Click OK to import. Any selected settings will be lost!"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-assets.php:128
+#: framework/includes/admin/class-kopa-admin-assets.php:141
+#@ new-lotus
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-assets.php:138
+#@ new-lotus
+msgid "Warning"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-assets.php:139
+#@ new-lotus
+msgid "Error"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-assets.php:140
+#@ new-lotus
+msgid "Info"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-assets.php:142
+#: framework/includes/admin/class-kopa-admin-settings.php:803
+#: framework/includes/admin/class-kopa-admin-settings.php:937
+#@ new-lotus
+msgid "Close"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-assets.php:143
+#: framework/includes/admin/class-kopa-admin-settings.php:801
+#: framework/includes/admin/class-kopa-admin-settings.php:935
+#@ new-lotus
+msgid "Delete"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-assets.php:144
+#: framework/includes/admin/class-kopa-admin-settings.php:919
+#@ new-lotus
+msgid "Advanced Settings"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-assets.php:146
+#: framework/includes/admin/class-kopa-admin-settings.php:854
+#@ new-lotus
+msgid "Name"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-assets.php:147
+#: framework/includes/admin/class-kopa-admin-settings.php:855
+#: widgets/widget.php:477
+#@ new-lotus
+msgid "Description"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-assets.php:148
+#: framework/includes/admin/class-kopa-admin-settings.php:856
+#@ new-lotus
+msgid "Before Widget"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-assets.php:149
+#: framework/includes/admin/class-kopa-admin-settings.php:857
+#@ new-lotus
+msgid "After Widget"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-assets.php:150
+#: framework/includes/admin/class-kopa-admin-settings.php:858
+#@ new-lotus
+msgid "Before Title"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-assets.php:151
+#: framework/includes/admin/class-kopa-admin-settings.php:859
+#@ new-lotus
+msgid "After Title"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-backup.php:115
+#@ new-lotus
+msgid "There was a problem importing your settings."
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-backup.php:121
+#@ new-lotus
+msgid "The import file you've provided is invalid."
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-backup.php:141
+#@ new-lotus
+msgid "Settings successfully imported."
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-help.php:45
+#@ new-lotus
+msgid "Documentation"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-help.php:48
+#@ new-lotus
+msgid "Thank you for using Kopa Framework. Should you need help using or extending Kopa Framework please read the documentation."
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-help.php:50
+#@ new-lotus
+msgid "Kopa Framework Documentation"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-help.php:50
+#@ new-lotus
+msgid "Developer API Docs"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-help.php:56
+#@ new-lotus
+msgid "Support"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-help.php:59
+#, php-format
+#@ new-lotus
+msgid "After <a href=\"%s\">reading the documentation</a>, for further assistance you can use the <a href=\"%s\">community forum</a>, or if you have access as a Kopatheme customer, <a href=\"%s\">our support desk</a>."
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-help.php:61
+#@ new-lotus
+msgid "Community Support"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-help.php:61
+#@ new-lotus
+msgid "Customer Support"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-help.php:67
+#@ new-lotus
+msgid "Found a bug?"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-help.php:70
+#, php-format
+#@ new-lotus
+msgid "If you find a bug within Kopa Framework core you can create a ticket via <a href=\"%s\">Kopatheme ticket</a>. Ensure you read the <a href=\"%s\">contribution guide</a> prior to submitting your report. Be as descriptive as possible."
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-help.php:72
+#@ new-lotus
+msgid "Report a bug"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-help.php:78
+#@ new-lotus
+msgid "For more information:"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-help.php:79
+#@ new-lotus
+msgid "About Kopa Framework"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-help.php:80
+#@ new-lotus
+msgid "Project on WordPress.org"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-help.php:81
+#@ new-lotus
+msgid "Official Themes"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-menus.php:49
+#: framework/includes/admin/class-kopa-admin-menus.php:50
+#: framework/includes/admin/settings/class-kopa-settings-backup-manager.php:68
+#: framework/includes/admin/settings/class-kopa-settings-backup-manager.php:102
+#: framework/includes/admin/settings/class-kopa-settings-theme-options.php:28
+#@ new-lotus
+msgid "Theme Options"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-settings.php:99
+#@ new-lotus
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-settings.php:115
+#@ new-lotus
+msgid "Default options restored."
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-settings.php:120
+#@ new-lotus
+msgid "Your settings have been saved."
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-settings.php:603
+#@ new-lotus
+msgid "No file chosen"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-settings.php:641
+#@ new-lotus
+msgid "View File"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-settings.php:659
+#@ new-lotus
+msgid "preview text"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-settings.php:819
+#@ new-lotus
+msgid "Add New Font"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-settings.php:826
+#@ new-lotus
+msgid "Import"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-settings.php:837
+#@ new-lotus
+msgid "Download Export File"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-settings.php:882
+#@ new-lotus
+msgid "Add New"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-settings.php:975
+#: framework/includes/admin/layouts/class-kopa-layout-box.php:65
+#@ new-lotus
+msgid "Select layout"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-settings.php:1005
+#: framework/includes/admin/layouts/class-kopa-layout-box.php:91
+#@ new-lotus
+msgid "&mdash;Select sidebar&mdash;"
+msgstr ""
+
+#: framework/includes/admin/class-kopa-admin-settings.php:1039
+#@ new-lotus
+msgid "Restore Defaults"
+msgstr ""
+
+#: framework/includes/admin/layouts/class-kopa-layout-box.php:53
+#@ new-lotus
+msgid "Check if you would like to use custom setting"
+msgstr ""
+
+#: framework/includes/admin/layouts/class-kopa-layout-box.php:120
+#: framework/includes/admin/layouts/class-kopa-layout-post-type.php:49
+#@ new-lotus
+msgid "Custom Layout"
+msgstr ""
+
+#: framework/includes/admin/settings/class-kopa-settings-backup-manager.php:28
+#@ new-lotus
+msgid "Backup"
+msgstr ""
+
+#: framework/includes/admin/settings/class-kopa-settings-backup-manager.php:48
+#@ new-lotus
+msgid "Restore Default"
+msgstr ""
+
+#: framework/includes/admin/settings/class-kopa-settings-backup-manager.php:54
+#@ new-lotus
+msgid "Restore Default Settings"
+msgstr ""
+
+#: framework/includes/admin/settings/class-kopa-settings-backup-manager.php:55
+#@ new-lotus
+msgid "Select one of the options below. When you click the \"Restore Defaults\" button below, the Kopa Framework will restore corresponding default settings for you."
+msgstr ""
+
+#: framework/includes/admin/settings/class-kopa-settings-backup-manager.php:67
+#: framework/includes/admin/settings/class-kopa-settings-backup-manager.php:101
+#@ new-lotus
+msgid "All Settings (This will contain all of the options listed below.)"
+msgstr ""
+
+#: framework/includes/admin/settings/class-kopa-settings-backup-manager.php:69
+#: framework/includes/admin/settings/class-kopa-settings-backup-manager.php:103
+#@ new-lotus
+msgid "Sidebars &amp; Layouts"
+msgstr ""
+
+#: framework/includes/admin/settings/class-kopa-settings-backup-manager.php:76
+#@ new-lotus
+msgid "Import/Export"
+msgstr ""
+
+#: framework/includes/admin/settings/class-kopa-settings-backup-manager.php:82
+#@ new-lotus
+msgid "Import Settings"
+msgstr ""
+
+#: framework/includes/admin/settings/class-kopa-settings-backup-manager.php:85
+#@ new-lotus
+msgid ""
+"If you have settings in a backup file on your computer, the Kopa Framework can import those into this site.\n"
+"To get started, upload your backup file to import from below."
+msgstr ""
+
+#: framework/includes/admin/settings/class-kopa-settings-backup-manager.php:89
+#@ new-lotus
+msgid "Export Settings"
+msgstr ""
+
+#: framework/includes/admin/settings/class-kopa-settings-backup-manager.php:92
+#, php-format
+#@ new-lotus
+msgid ""
+"When you click the button below, the Kopa Framework will create a text file for you to save to your computer.\n"
+"This text file can be used to restore your settings here on \"%s\", or to easily setup another website with the same settings."
+msgstr ""
+
+#: framework/includes/admin/settings/class-kopa-settings-layout-manager.php:28
+#@ new-lotus
+msgid "Layout Manager"
+msgstr ""
+
+#: framework/includes/admin/settings/class-kopa-settings-layout-manager.php:67
+#: framework/includes/admin/settings/class-kopa-settings-layout-manager.php:73
+#@ new-lotus
+msgid "Frontpage"
+msgstr ""
+
+#: framework/includes/admin/settings/class-kopa-settings-layout-manager.php:83
+#: framework/includes/admin/settings/class-kopa-settings-layout-manager.php:89
+#: library/front.php:410
+#@ new-lotus
+msgid "Blog"
+msgstr ""
+
+#: framework/includes/admin/settings/class-kopa-settings-layout-manager.php:99
+#: framework/includes/admin/settings/class-kopa-settings-layout-manager.php:105
+#@ new-lotus
+msgid "Page"
+msgstr ""
+
+#: framework/includes/admin/settings/class-kopa-settings-layout-manager.php:115
+#: framework/includes/admin/settings/class-kopa-settings-layout-manager.php:121
+#@ new-lotus
+msgid "Post"
+msgstr ""
+
+#: framework/includes/admin/settings/class-kopa-settings-layout-manager.php:131
+#: framework/includes/admin/settings/class-kopa-settings-layout-manager.php:137
+#: library/theme-option.php:160
+#@ new-lotus
+msgid "Search"
+msgstr ""
+
+#: framework/includes/admin/settings/class-kopa-settings-layout-manager.php:153
+#: library/front.php:523
+#@ new-lotus
+msgid "Error 404"
+msgstr ""
+
+#: framework/includes/admin/settings/class-kopa-settings-sidebar-manager.php:28
+#: framework/includes/admin/settings/class-kopa-settings-sidebar-manager.php:49
+#@ new-lotus
+msgid "Sidebar Manager"
+msgstr ""
+
+#: framework/includes/admin/settings/class-kopa-settings-sidebar-manager.php:55
+#@ new-lotus
+msgid "Add as many sidebars (widget areas) as you need. Creating sidebars (widget areas) is unlimited."
+msgstr ""
+
+#: framework/includes/admin/views/html-admin-settings.php:29
+#: framework/includes/admin/views/html-admin-settings.php:43
+#@ new-lotus
+msgid "Save Options"
+msgstr ""
+
+#: framework/includes/admin/views/html-admin-settings.php:58
+#@ new-lotus
+msgid "OK"
+msgstr ""
+
+#: framework/includes/admin/views/html-admin-settings.php:59
+#@ new-lotus
+msgid "Cancel"
+msgstr ""
+
+#: framework/includes/class-kopa-ajax.php:61
+#@ new-lotus
+msgid "This sidebar is currently containing widgets."
+msgstr ""
+
+#: framework/includes/class-kopa-ajax.php:85
+#, php-format
+#@ new-lotus
+msgid "%1$s of %2$s."
+msgstr ""
+
+#: framework/includes/class-kopa-ajax.php:102
+#@ new-lotus
+msgid "This sidebar is being used in:"
+msgstr ""
+
+#: framework/includes/class-kopa-ajax.php:103
+#@ new-lotus
+msgid "You cannot delete this sidebar."
+msgstr ""
+
+#: framework/includes/kopa-fonts-functions.php:12512
+#@ new-lotus
+msgid "Thin"
+msgstr ""
+
+#: framework/includes/kopa-fonts-functions.php:12516
+#@ new-lotus
+msgid "Thin/Italic"
+msgstr ""
+
+#: framework/includes/kopa-fonts-functions.php:12520
+#@ new-lotus
+msgid "Extra-Light"
+msgstr ""
+
+#: framework/includes/kopa-fonts-functions.php:12524
+#@ new-lotus
+msgid "Extra-Light/Italic"
+msgstr ""
+
+#: framework/includes/kopa-fonts-functions.php:12528
+#@ new-lotus
+msgid "Light"
+msgstr ""
+
+#: framework/includes/kopa-fonts-functions.php:12532
+#@ new-lotus
+msgid "Light/Italic"
+msgstr ""
+
+#: framework/includes/kopa-fonts-functions.php:12536
+#: framework/includes/kopa-fonts-functions.php:12544
+#@ new-lotus
+msgid "Normal"
+msgstr ""
+
+#: framework/includes/kopa-fonts-functions.php:12540
+#: framework/includes/kopa-fonts-functions.php:12548
+#@ new-lotus
+msgid "Normal/Italic"
+msgstr ""
+
+#: framework/includes/kopa-fonts-functions.php:12552
+#@ new-lotus
+msgid "Medium"
+msgstr ""
+
+#: framework/includes/kopa-fonts-functions.php:12556
+#@ new-lotus
+msgid "Medium/Italic"
+msgstr ""
+
+#: framework/includes/kopa-fonts-functions.php:12560
+#@ new-lotus
+msgid "Semi-Bold"
+msgstr ""
+
+#: framework/includes/kopa-fonts-functions.php:12564
+#@ new-lotus
+msgid "Semi-Bold/Italic"
+msgstr ""
+
+#: framework/includes/kopa-fonts-functions.php:12568
+#: framework/includes/kopa-fonts-functions.php:12576
+#@ new-lotus
+msgid "Bold"
+msgstr ""
+
+#: framework/includes/kopa-fonts-functions.php:12572
+#: framework/includes/kopa-fonts-functions.php:12580
+#@ new-lotus
+msgid "Bold/Italic"
+msgstr ""
+
+#: framework/includes/kopa-fonts-functions.php:12584
+#@ new-lotus
+msgid "Extra-Bold"
+msgstr ""
+
+#: framework/includes/kopa-fonts-functions.php:12588
+#@ new-lotus
+msgid "Extra-Bold/Italic"
+msgstr ""
+
+#: framework/includes/kopa-fonts-functions.php:12592
+#@ new-lotus
+msgid "Ultra-Bold"
+msgstr ""
+
+#: framework/includes/kopa-fonts-functions.php:12596
+#@ new-lotus
+msgid "Ultra-Bold/Italic"
+msgstr ""
+
+#: functions.php:103
+#: library/includes/class-tgm-plugin-activation.php:161
+#@ new-lotus
+#@ tgmpa
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:104
+#: library/includes/class-tgm-plugin-activation.php:162
+#@ new-lotus
+#@ tgmpa
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:105
+#: library/includes/class-tgm-plugin-activation.php:163
+#, php-format
+#@ new-lotus
+#@ tgmpa
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:106
+#@ new-lotus
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:107
+#, php-format
+#@ new-lotus
+msgid "This theme requires the following plugin: %1$s. If you currently use the built-in plugin (pre-packaged plugin, e.g. shortcode...) from another WordPress themes by Kopatheme, please deactivate and delete the plugin before installing."
+msgid_plural "This theme requires the following plugins: %1$s. If you currently use the built-in plugins (pre-packaged plugins, e.g. shortcode...) from another WordPress themes by Kopatheme, please deactivate and delete the plugins before installing."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:108
+#, php-format
+#@ new-lotus
+msgid "This theme recommends the following plugin: %1$s. If you currently use the built-in plugin (pre-packaged plugin, e.g. shortcode...) from another WordPress themes by Kopatheme, please deactivate and delete the plugin before installing."
+msgid_plural "This theme recommends the following plugins: %1$s. If you currently use the built-in plugins (pre-packaged plugins, e.g. shortcode...) from another WordPress themes by Kopatheme, please deactivate and delete the plugins before installing."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:109
+#: library/includes/class-tgm-plugin-activation.php:167
+#, php-format
+#@ new-lotus
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:110
+#, php-format
+#@ new-lotus
+msgid "The following required plugin is currently inactive: %1$s. If you currently use the built-in plugin (pre-packaged plugin, e.g. shortcode...) from another WordPress themes by Kopatheme, please delete the plugin and install the pre-packaged plugin comes with this theme."
+msgid_plural "The following required plugins are currently inactive: %1$s. If you currently use the built-in plugins (pre-packaged plugins, e.g. shortcode...) from another WordPress themes by Kopatheme, please delete the plugins and install the pre-packaged plugins come with this theme."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:111
+#, php-format
+#@ new-lotus
+msgid "The following recommended plugin is currently inactive: %1$s. If you currently use the built-in plugin (pre-packaged plugin, e.g. shortcode...) from another WordPress themes by Kopatheme, please delete the plugin and install the pre-packaged plugin comes with this theme."
+msgid_plural "The following recommended plugins are currently inactive: %1$s. If you currently use the built-in plugins (pre-packaged plugins, e.g. shortcode...) from another WordPress themes by Kopatheme, please delete the plugins and install the pre-packaged plugins come with this theme."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:112
+#: library/includes/class-tgm-plugin-activation.php:170
+#, php-format
+#@ new-lotus
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:113
+#, php-format
+#@ new-lotus
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s. If the plugin is built-in plugin (pre-packaged plugin, e.g. shortcode...) of this theme, please deactivate and delete its current version before installing its latest version comes with this theme."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s. If the plugins are built-in plugins (pre-packaged plugins, e.g. shortcode...) of this theme, please deactivate and delete their current version before installing their latest version come with this theme."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:114
+#: library/includes/class-tgm-plugin-activation.php:172
+#, php-format
+#@ new-lotus
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:115
+#: library/includes/class-tgm-plugin-activation.php:173
+#@ new-lotus
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:116
+#@ new-lotus
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:117
+#: library/includes/class-tgm-plugin-activation.php:175
+#@ new-lotus
+#@ tgmpa
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:118
+#: library/includes/class-tgm-plugin-activation.php:177
+#: library/includes/class-tgm-plugin-activation.php:1945
+#@ new-lotus
+#@ tgmpa
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:119
+#, php-format
+#@ new-lotus
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: header.php:79
+#@ new-lotus
+msgid "Logo"
+msgstr ""
+
+#: library/front.php:13
+#@ new-lotus
+msgid "Top_Menu"
+msgstr ""
+
+#: library/front.php:14
+#@ new-lotus
+msgid "Main Menu"
+msgstr ""
+
+#: library/front.php:117
+#@ new-lotus
+msgid "Please enter your name."
+msgstr ""
+
+#: library/front.php:118
+#: library/front.php:134
+#@ new-lotus
+msgid "At least {0} characters required."
+msgstr ""
+
+#: library/front.php:121
+#@ new-lotus
+msgid "Please enter your email..."
+msgstr ""
+
+#: library/front.php:122
+#@ new-lotus
+msgid "Please enter a valid email."
+msgstr ""
+
+#: library/front.php:125
+#@ new-lotus
+msgid "Please enter your phone."
+msgstr ""
+
+#: library/front.php:126
+#@ new-lotus
+msgid "Please enter a valid phone number"
+msgstr ""
+
+#: library/front.php:129
+#@ new-lotus
+msgid "Please enter your url."
+msgstr ""
+
+#: library/front.php:130
+#@ new-lotus
+msgid "Please enter a valid url."
+msgstr ""
+
+#: library/front.php:133
+#@ new-lotus
+msgid "Please enter a message."
+msgstr ""
+
+#: library/front.php:137
+#@ new-lotus
+msgid "Sending..."
+msgstr ""
+
+#: library/front.php:138
+#@ new-lotus
+msgid "Submit"
+msgstr ""
+
+#: library/front.php:144
+#@ new-lotus
+msgid "Prev"
+msgstr ""
+
+#: library/front.php:145
+#@ new-lotus
+msgid "Next"
+msgstr ""
+
+#: library/front.php:214
+#, php-format
+#@ new-lotus
+msgid "Page %s"
+msgstr ""
+
+#: library/front.php:265
+#@ new-lotus
+msgid "&nbsp;&nbsp;Facebook "
+msgstr ""
+
+#: library/front.php:270
+#@ new-lotus
+msgid "&nbsp;&nbsp;Twitter "
+msgstr ""
+
+#: library/front.php:275
+#@ new-lotus
+msgid "&nbsp;&nbsp;Google +"
+msgstr ""
+
+#: library/front.php:279
+#@ new-lotus
+msgid "&nbsp;&nbsp;Linkedin"
+msgstr ""
+
+#: library/front.php:283
+#@ new-lotus
+msgid "&nbsp;&nbsp;Pinterest"
+msgstr ""
+
+#: library/front.php:400
+#@ new-lotus
+msgid "You are here: "
+msgstr ""
+
+#: library/front.php:400
+#@ new-lotus
+msgid "Home"
+msgstr ""
+
+#: library/front.php:515
+#, php-format
+#@ new-lotus
+msgid "<span class=\"%1$s\">Your search for \"%2$s\" return %3$s results</span>"
+msgstr ""
+
+#: library/front.php:520
+#, php-format
+#@ new-lotus
+msgid "Posts created by %1$s"
+msgstr ""
+
+#: library/front.php:717
+#: library/front.php:719
+#@ new-lotus
+msgid "Tags: "
+msgstr ""
+
+#: library/front.php:733
+#@ new-lotus
+msgid "Previous article"
+msgstr ""
+
+#: library/front.php:737
+#: library/front.php:747
+#: library/templates/format-single-audio.php:35
+#: library/templates/format-single-gallery.php:40
+#: library/templates/format-single-video.php:34
+#: library/templates/format-single.php:27
+#: library/templates/loop-blog.php:24
+#@ new-lotus
+msgid "By"
+msgstr ""
+
+#: library/front.php:743
+#@ new-lotus
+msgid "Next Article"
+msgstr ""
+
+#: library/front.php:802
+#@ new-lotus
+msgid "post by related"
+msgstr ""
+
+#: library/front.php:803
+#@ new-lotus
+msgid "related post"
+msgstr ""
+
+#: library/includes/ajax.php:6
+#: library/includes/ajax.php:37
+#@ new-lotus
+msgid "Oops! errors occured."
+msgstr ""
+
+#: library/includes/ajax.php:31
+#@ new-lotus
+msgid "Website:"
+msgstr ""
+
+#: library/includes/ajax.php:40
+#@ new-lotus
+msgid "Success! Your email has been sent."
+msgstr ""
+
+#: library/includes/bfithumb.php:133
+#@ default
+msgid "The server does not have ImageMagick or GD installed and/or enabled! Any of these libraries are required for WordPress to be able to resize images. Please contact your server administrator to enable this before continuing."
+msgstr ""
+
+#: library/includes/bfithumb.php:252
+#@ default
+msgid "Image rotate failed."
+msgstr ""
+
+#: library/includes/bfithumb.php:274
+#@ default
+msgid "Image opacity change failed."
+msgstr ""
+
+#: library/includes/bfithumb.php:353
+#@ default
+msgid "Image color change failed."
+msgstr ""
+
+#: library/includes/bfithumb.php:369
+#@ default
+msgid "Image grayscale failed."
+msgstr ""
+
+#: library/includes/bfithumb.php:385
+#@ default
+msgid "Image negate failed."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:164
+#@ tgmpa
+msgid "Something went wrong."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:165
+#, php-format
+#@ new-lotus
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/includes/class-tgm-plugin-activation.php:166
+#, php-format
+#@ new-lotus
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/includes/class-tgm-plugin-activation.php:168
+#, php-format
+#@ new-lotus
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/includes/class-tgm-plugin-activation.php:169
+#, php-format
+#@ new-lotus
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/includes/class-tgm-plugin-activation.php:171
+#, php-format
+#@ new-lotus
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/includes/class-tgm-plugin-activation.php:174
+#@ new-lotus
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/includes/class-tgm-plugin-activation.php:176
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:179
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:180
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:534
+#: library/includes/class-tgm-plugin-activation.php:2162
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1169
+#@ tgmpa
+msgid "Private Repository"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1172
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1177
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1180
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1180
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1183
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1185
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1290
+#: library/includes/class-tgm-plugin-activation.php:1398
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1312
+#: library/includes/class-tgm-plugin-activation.php:1399
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1361
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1377
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1378
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1379
+#@ tgmpa
+msgid "Type"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1380
+#@ tgmpa
+msgid "Status"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: library/includes/class-tgm-plugin-activation.php:1636
+#: library/includes/class-tgm-plugin-activation.php:178
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/includes/class-tgm-plugin-activation.php:1928
+#@ tgmpa
+msgid "Install package not available."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1929
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1930
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1931
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1932
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1933
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1944
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:2058
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:2059
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:2059
+#: library/includes/class-tgm-plugin-activation.php:2068
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:2059
+#: library/includes/class-tgm-plugin-activation.php:2068
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:2060
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:2061
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:2065
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:2066
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:2067
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:2068
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:2069
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:2070
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/templates/format-single-audio.php:68
+#: library/templates/format-single-gallery.php:71
+#: library/templates/format-single-video.php:67
+#: library/templates/format-single.php:52
+#@ new-lotus
+msgid "Next page"
+msgstr ""
+
+#: library/templates/format-single-audio.php:69
+#: library/templates/format-single-gallery.php:72
+#: library/templates/format-single-video.php:68
+#: library/templates/format-single.php:53
+#@ new-lotus
+msgid "Previous page"
+msgstr ""
+
+#: library/templates/loop-blog.php:29
+#: library/theme-option.php:261
+#@ new-lotus
+msgid "Read more"
+msgstr ""
+
+#: library/templates/loop-blog.php:43
+#@ new-lotus
+msgid "Nothing Found..."
+msgstr ""
+
+#: library/templates/searchform.php:2
+#@ new-lotus
+msgid "Search this site"
+msgstr ""
+
+#: library/templates/template-hreview.php:7
+#@ new-lotus
+msgid "Reviewed by"
+msgstr ""
+
+#: library/templates/template-hreview.php:7
+#@ new-lotus
+msgid "on"
+msgstr ""
+
+#: library/templates/template-hreview.php:17
+#@ new-lotus
+msgid "Rating:"
+msgstr ""
+
+#: library/theme-option.php:10
+#@ new-lotus
+msgid "General Settings"
+msgstr ""
+
+#: library/theme-option.php:18
+#@ new-lotus
+msgid "Logo,Banner, Favicon, Apple Icon"
+msgstr ""
+
+#: library/theme-option.php:126
+#@ new-lotus
+msgid "Config header"
+msgstr ""
+
+#: library/theme-option.php:132
+#: library/theme-option.php:235
+#: widgets/widget.php:69
+#: widgets/widget.php:581
+#: widgets/widget.php:757
+#: widgets/widget.php:1234
+#@ new-lotus
+msgid "Date"
+msgstr ""
+
+#: library/theme-option.php:134
+#@ new-lotus
+msgid "Show / Hide date"
+msgstr ""
+
+#: library/theme-option.php:138
+#: library/theme-option.php:152
+#: library/theme-option.php:166
+#: library/theme-option.php:241
+#: library/theme-option.php:254
+#: library/theme-option.php:267
+#: library/theme-option.php:294
+#: library/theme-option.php:308
+#: library/theme-option.php:348
+#: library/theme-option.php:361
+#: library/theme-option.php:374
+#: library/theme-option.php:388
+#: library/theme-option.php:401
+#: library/theme-option.php:414
+#: library/theme-option.php:515
+#: library/theme-option.php:544
+#@ new-lotus
+msgid "Show"
+msgstr ""
+
+#: library/theme-option.php:139
+#: library/theme-option.php:153
+#: library/theme-option.php:167
+#: library/theme-option.php:242
+#: library/theme-option.php:255
+#: library/theme-option.php:268
+#: library/theme-option.php:295
+#: library/theme-option.php:309
+#: library/theme-option.php:349
+#: library/theme-option.php:362
+#: library/theme-option.php:375
+#: library/theme-option.php:389
+#: library/theme-option.php:402
+#: library/theme-option.php:415
+#: library/theme-option.php:516
+#: library/theme-option.php:545
+#@ new-lotus
+msgid "Hide"
+msgstr ""
+
+#: library/theme-option.php:146
+#@ new-lotus
+msgid "Top menu"
+msgstr ""
+
+#: library/theme-option.php:148
+#@ new-lotus
+msgid "Show / Hide top menu"
+msgstr ""
+
+#: library/theme-option.php:162
+#@ new-lotus
+msgid "Show / Hide search"
+msgstr ""
+
+#: library/theme-option.php:181
+#@ new-lotus
+msgid "Responsive layout"
+msgstr ""
+
+#: library/theme-option.php:188
+#@ new-lotus
+msgid "Enable / Disable responsive layout"
+msgstr ""
+
+#: library/theme-option.php:192
+#@ new-lotus
+msgid "Enable"
+msgstr ""
+
+#: library/theme-option.php:193
+#@ new-lotus
+msgid "Disable"
+msgstr ""
+
+#: library/theme-option.php:208
+#@ new-lotus
+msgid "Footer"
+msgstr ""
+
+#: library/theme-option.php:213
+#@ new-lotus
+msgid "Custom footer description"
+msgstr ""
+
+#: library/theme-option.php:215
+#@ new-lotus
+msgid "Enter the content you want to display in your footer (e.g. copyright text)."
+msgstr ""
+
+#: library/theme-option.php:230
+#@ new-lotus
+msgid "Content post"
+msgstr ""
+
+#: library/theme-option.php:237
+#: library/theme-option.php:250
+#: library/theme-option.php:263
+#@ new-lotus
+msgid "Show / Hide"
+msgstr ""
+
+#: library/theme-option.php:248
+#@ new-lotus
+msgid "Author"
+msgstr ""
+
+#: library/theme-option.php:283
+#@ new-lotus
+msgid "System"
+msgstr ""
+
+#: library/theme-option.php:288
+#@ new-lotus
+msgid "Breadcrumb"
+msgstr ""
+
+#: library/theme-option.php:290
+#@ new-lotus
+msgid "Show / Hide breadcrumb"
+msgstr ""
+
+#: library/theme-option.php:302
+#@ new-lotus
+msgid "Thumbnail"
+msgstr ""
+
+#: library/theme-option.php:304
+#@ new-lotus
+msgid "Show / Hide thumbnail"
+msgstr ""
+
+#: library/theme-option.php:334
+#@ new-lotus
+msgid "Post Settings"
+msgstr ""
+
+#: library/theme-option.php:342
+#@ new-lotus
+msgid "Show/hide thumbnail:"
+msgstr ""
+
+#: library/theme-option.php:355
+#: library/theme-option.php:509
+#@ new-lotus
+msgid "Show/hide date:"
+msgstr ""
+
+#: library/theme-option.php:368
+#@ new-lotus
+msgid "Show/hide author:"
+msgstr ""
+
+#: library/theme-option.php:382
+#@ new-lotus
+msgid "Show/hide tags:"
+msgstr ""
+
+#: library/theme-option.php:395
+#@ new-lotus
+msgid "Show/hide navigation:"
+msgstr ""
+
+#: library/theme-option.php:408
+#@ new-lotus
+msgid "Show/hide share:"
+msgstr ""
+
+#: library/theme-option.php:448
+#@ new-lotus
+msgid "Share socials"
+msgstr ""
+
+#: library/theme-option.php:451
+#@ new-lotus
+msgid "Choose social to share in post detail"
+msgstr ""
+
+#: library/theme-option.php:481
+#@ new-lotus
+msgid "Related Posts"
+msgstr ""
+
+#: library/theme-option.php:487
+#@ new-lotus
+msgid "Get by"
+msgstr ""
+
+#: library/theme-option.php:493
+#@ new-lotus
+msgid "-- Hiden --"
+msgstr ""
+
+#: library/theme-option.php:494
+#@ new-lotus
+msgid "Tag"
+msgstr ""
+
+#: library/theme-option.php:495
+#@ new-lotus
+msgid "Category"
+msgstr ""
+
+#: library/theme-option.php:538
+#: library/theme-option.php:540
+#@ new-lotus
+msgid "Social link target"
+msgstr ""
+
+#: library/theme-option.php:555
+#@ new-lotus
+msgid "title"
+msgstr ""
+
+#: widgets/widget.php:15
+#@ new-lotus
+msgid "Display videos playlist"
+msgstr ""
+
+#: widgets/widget.php:17
+#@ new-lotus
+msgid "Kopa Video Playlist"
+msgstr ""
+
+#: widgets/widget.php:21
+#: widgets/widget.php:533
+#: widgets/widget.php:709
+#: widgets/widget.php:1186
+#@ new-lotus
+msgid "---Select categories---"
+msgstr ""
+
+#: widgets/widget.php:28
+#: widgets/widget.php:540
+#: widgets/widget.php:716
+#: widgets/widget.php:1193
+#@ new-lotus
+msgid "---Select tags---"
+msgstr ""
+
+#: widgets/widget.php:37
+#: widgets/widget.php:68
+#: widgets/widget.php:580
+#: widgets/widget.php:756
+#: widgets/widget.php:987
+#: widgets/widget.php:1126
+#: widgets/widget.php:1202
+#: widgets/widget.php:1233
+#@ new-lotus
+msgid "Title"
+msgstr ""
+
+#: widgets/widget.php:42
+#: widgets/widget.php:554
+#: widgets/widget.php:730
+#: widgets/widget.php:1207
+#@ new-lotus
+msgid "Categories"
+msgstr ""
+
+#: widgets/widget.php:48
+#: widgets/widget.php:560
+#: widgets/widget.php:736
+#: widgets/widget.php:1213
+#@ new-lotus
+msgid "Relation"
+msgstr ""
+
+#: widgets/widget.php:51
+#: widgets/widget.php:563
+#: widgets/widget.php:739
+#: widgets/widget.php:1216
+#@ new-lotus
+msgid "AND"
+msgstr ""
+
+#: widgets/widget.php:52
+#: widgets/widget.php:564
+#: widgets/widget.php:740
+#: widgets/widget.php:1217
+#@ new-lotus
+msgid "OR"
+msgstr ""
+
+#: widgets/widget.php:58
+#: widgets/widget.php:570
+#: widgets/widget.php:746
+#: widgets/widget.php:1223
+#@ new-lotus
+msgid "Tags"
+msgstr ""
+
+#: widgets/widget.php:65
+#: widgets/widget.php:577
+#: widgets/widget.php:753
+#: widgets/widget.php:1230
+#@ new-lotus
+msgid "Order by"
+msgstr ""
+
+#: widgets/widget.php:67
+#: widgets/widget.php:579
+#: widgets/widget.php:755
+#: widgets/widget.php:1232
+#@ new-lotus
+msgid "Post id"
+msgstr ""
+
+#: widgets/widget.php:70
+#: widgets/widget.php:582
+#: widgets/widget.php:758
+#: widgets/widget.php:1235
+#@ new-lotus
+msgid "Random"
+msgstr ""
+
+#: widgets/widget.php:71
+#: widgets/widget.php:583
+#: widgets/widget.php:759
+#: widgets/widget.php:1236
+#@ new-lotus
+msgid "Number of comments"
+msgstr ""
+
+#: widgets/widget.php:77
+#: widgets/widget.php:233
+#: widgets/widget.php:589
+#: widgets/widget.php:765
+#: widgets/widget.php:1242
+#@ new-lotus
+msgid "Ordering"
+msgstr ""
+
+#: widgets/widget.php:79
+#: widgets/widget.php:235
+#: widgets/widget.php:591
+#: widgets/widget.php:767
+#: widgets/widget.php:1244
+#@ new-lotus
+msgid "ASC"
+msgstr ""
+
+#: widgets/widget.php:80
+#: widgets/widget.php:236
+#: widgets/widget.php:592
+#: widgets/widget.php:768
+#: widgets/widget.php:1245
+#@ new-lotus
+msgid "DESC"
+msgstr ""
+
+#: widgets/widget.php:86
+#: widgets/widget.php:242
+#: widgets/widget.php:598
+#: widgets/widget.php:774
+#: widgets/widget.php:1251
+#@ new-lotus
+msgid "Number of posts"
+msgstr ""
+
+#: widgets/widget.php:92
+#: widgets/widget.php:248
+#: widgets/widget.php:604
+#: widgets/widget.php:786
+#: widgets/widget.php:1257
+#@ new-lotus
+msgid "Timestamp (ago)"
+msgstr ""
+
+#: widgets/widget.php:94
+#: widgets/widget.php:250
+#: widgets/widget.php:606
+#: widgets/widget.php:788
+#: widgets/widget.php:1259
+#@ new-lotus
+msgid "-- Select --"
+msgstr ""
+
+#: widgets/widget.php:95
+#: widgets/widget.php:251
+#: widgets/widget.php:607
+#: widgets/widget.php:789
+#: widgets/widget.php:1260
+#@ new-lotus
+msgid "1 week"
+msgstr ""
+
+#: widgets/widget.php:96
+#: widgets/widget.php:252
+#: widgets/widget.php:608
+#: widgets/widget.php:790
+#: widgets/widget.php:1261
+#@ new-lotus
+msgid "2 weeks"
+msgstr ""
+
+#: widgets/widget.php:97
+#: widgets/widget.php:253
+#: widgets/widget.php:609
+#: widgets/widget.php:791
+#: widgets/widget.php:1262
+#@ new-lotus
+msgid "3 weeks"
+msgstr ""
+
+#: widgets/widget.php:98
+#: widgets/widget.php:254
+#: widgets/widget.php:610
+#: widgets/widget.php:792
+#: widgets/widget.php:1263
+#@ new-lotus
+msgid "1 months"
+msgstr ""
+
+#: widgets/widget.php:99
+#: widgets/widget.php:255
+#: widgets/widget.php:611
+#: widgets/widget.php:793
+#: widgets/widget.php:1264
+#@ new-lotus
+msgid "2 months"
+msgstr ""
+
+#: widgets/widget.php:100
+#: widgets/widget.php:256
+#: widgets/widget.php:612
+#: widgets/widget.php:794
+#: widgets/widget.php:1265
+#@ new-lotus
+msgid "3 months"
+msgstr ""
+
+#: widgets/widget.php:101
+#: widgets/widget.php:257
+#: widgets/widget.php:613
+#: widgets/widget.php:795
+#: widgets/widget.php:1266
+#@ new-lotus
+msgid "4 months"
+msgstr ""
+
+#: widgets/widget.php:102
+#: widgets/widget.php:258
+#: widgets/widget.php:614
+#: widgets/widget.php:796
+#: widgets/widget.php:1267
+#@ new-lotus
+msgid "5 months"
+msgstr ""
+
+#: widgets/widget.php:103
+#: widgets/widget.php:259
+#: widgets/widget.php:615
+#: widgets/widget.php:797
+#: widgets/widget.php:1268
+#@ new-lotus
+msgid "6 months"
+msgstr ""
+
+#: widgets/widget.php:104
+#: widgets/widget.php:260
+#: widgets/widget.php:616
+#: widgets/widget.php:798
+#: widgets/widget.php:1269
+#@ new-lotus
+msgid "7 months"
+msgstr ""
+
+#: widgets/widget.php:105
+#: widgets/widget.php:261
+#: widgets/widget.php:617
+#: widgets/widget.php:799
+#: widgets/widget.php:1270
+#@ new-lotus
+msgid "8 months"
+msgstr ""
+
+#: widgets/widget.php:106
+#: widgets/widget.php:262
+#: widgets/widget.php:618
+#: widgets/widget.php:800
+#: widgets/widget.php:1271
+#@ new-lotus
+msgid "9 months"
+msgstr ""
+
+#: widgets/widget.php:107
+#: widgets/widget.php:263
+#: widgets/widget.php:619
+#: widgets/widget.php:801
+#: widgets/widget.php:1272
+#@ new-lotus
+msgid "10 months"
+msgstr ""
+
+#: widgets/widget.php:108
+#: widgets/widget.php:264
+#: widgets/widget.php:620
+#: widgets/widget.php:802
+#: widgets/widget.php:1273
+#@ new-lotus
+msgid "11 months"
+msgstr ""
+
+#: widgets/widget.php:109
+#: widgets/widget.php:265
+#: widgets/widget.php:621
+#: widgets/widget.php:803
+#: widgets/widget.php:1274
+#@ new-lotus
+msgid "1 year"
+msgstr ""
+
+#: widgets/widget.php:110
+#: widgets/widget.php:266
+#: widgets/widget.php:622
+#: widgets/widget.php:804
+#: widgets/widget.php:1275
+#@ new-lotus
+msgid "2 years"
+msgstr ""
+
+#: widgets/widget.php:111
+#: widgets/widget.php:267
+#: widgets/widget.php:623
+#: widgets/widget.php:805
+#: widgets/widget.php:1276
+#@ new-lotus
+msgid "3 years"
+msgstr ""
+
+#: widgets/widget.php:112
+#: widgets/widget.php:268
+#: widgets/widget.php:624
+#: widgets/widget.php:806
+#: widgets/widget.php:1277
+#@ new-lotus
+msgid "4 years"
+msgstr ""
+
+#: widgets/widget.php:113
+#: widgets/widget.php:269
+#: widgets/widget.php:625
+#: widgets/widget.php:807
+#: widgets/widget.php:1278
+#@ new-lotus
+msgid "5 years"
+msgstr ""
+
+#: widgets/widget.php:114
+#: widgets/widget.php:270
+#: widgets/widget.php:626
+#: widgets/widget.php:808
+#: widgets/widget.php:1279
+#@ new-lotus
+msgid "6 years"
+msgstr ""
+
+#: widgets/widget.php:115
+#: widgets/widget.php:271
+#: widgets/widget.php:627
+#: widgets/widget.php:809
+#: widgets/widget.php:1280
+#@ new-lotus
+msgid "7 years"
+msgstr ""
+
+#: widgets/widget.php:116
+#: widgets/widget.php:272
+#: widgets/widget.php:628
+#: widgets/widget.php:810
+#: widgets/widget.php:1281
+#@ new-lotus
+msgid "8 years"
+msgstr ""
+
+#: widgets/widget.php:117
+#: widgets/widget.php:273
+#: widgets/widget.php:629
+#: widgets/widget.php:811
+#: widgets/widget.php:1282
+#@ new-lotus
+msgid "9 years"
+msgstr ""
+
+#: widgets/widget.php:118
+#: widgets/widget.php:274
+#: widgets/widget.php:630
+#: widgets/widget.php:812
+#: widgets/widget.php:1283
+#@ new-lotus
+msgid "10 years"
+msgstr ""
+
+#: widgets/widget.php:210
+#@ new-lotus
+msgid "Display popular articles, recent articles and most comment articles"
+msgstr ""
+
+#: widgets/widget.php:212
+#@ new-lotus
+msgid "Kopa Accordions"
+msgstr ""
+
+#: widgets/widget.php:217
+#@ new-lotus
+msgid "POPULAR"
+msgstr ""
+
+#: widgets/widget.php:218
+#@ new-lotus
+msgid "Popular title"
+msgstr ""
+
+#: widgets/widget.php:222
+#@ new-lotus
+msgid "COMMENT"
+msgstr ""
+
+#: widgets/widget.php:223
+#@ new-lotus
+msgid "Comment title"
+msgstr ""
+
+#: widgets/widget.php:227
+#@ new-lotus
+msgid "RECENT"
+msgstr ""
+
+#: widgets/widget.php:228
+#@ new-lotus
+msgid "Latest title"
+msgstr ""
+
+#: widgets/widget.php:389
+#@ new-lotus
+msgid "Show advertisement"
+msgstr ""
+
+#: widgets/widget.php:391
+#@ new-lotus
+msgid "Kopa Advertisement"
+msgstr ""
+
+#: widgets/widget.php:397
+#@ new-lotus
+msgid "Upload Image"
+msgstr ""
+
+#: widgets/widget.php:402
+#@ new-lotus
+msgid "Image Title (Show when hover on the image)"
+msgstr ""
+
+#: widgets/widget.php:407
+#@ new-lotus
+msgid "Image Link"
+msgstr ""
+
+#: widgets/widget.php:412
+#@ new-lotus
+msgid "Open link in a new tab"
+msgstr ""
+
+#: widgets/widget.php:464
+#@ new-lotus
+msgid "Show social link"
+msgstr ""
+
+#: widgets/widget.php:466
+#@ new-lotus
+msgid "Kopa social link"
+msgstr ""
+
+#: widgets/widget.php:472
+#@ new-lotus
+msgid "Social Network"
+msgstr ""
+
+#: widgets/widget.php:527
+#: widgets/widget.php:529
+#@ new-lotus
+msgid "Kopa Lightbox Galleries"
+msgstr ""
+
+#: widgets/widget.php:548
+#: widgets/widget.php:549
+#@ new-lotus
+msgid "Gallery posts"
+msgstr ""
+
+#: widgets/widget.php:703
+#: widgets/widget.php:705
+#@ new-lotus
+msgid "Kopa Article List"
+msgstr ""
+
+#: widgets/widget.php:724
+#: widgets/widget.php:725
+#@ new-lotus
+msgid "Life style"
+msgstr ""
+
+#: widgets/widget.php:780
+#@ new-lotus
+msgid "Exerpt of posts"
+msgstr ""
+
+#: widgets/widget.php:862
+#@ new-lotus
+msgid "No comment"
+msgstr ""
+
+#: widgets/widget.php:862
+#@ new-lotus
+msgid "1 comment"
+msgstr ""
+
+#: widgets/widget.php:862
+#@ new-lotus
+msgid "% comments"
+msgstr ""
+
+#: widgets/widget.php:870
+#@ new-lotus
+msgid "read more"
+msgstr ""
+
+#: widgets/widget.php:916
+#: widgets/widget.php:918
+#@ new-lotus
+msgid "Kopa newletter"
+msgstr ""
+
+#: widgets/widget.php:924
+#@ new-lotus
+msgid "Feedburner id"
+msgstr ""
+
+#: widgets/widget.php:928
+#: widgets/widget.php:950
+#@ new-lotus
+msgid "Enter your email address ..."
+msgstr ""
+
+#: widgets/widget.php:929
+#@ new-lotus
+msgid "Placeholder"
+msgstr ""
+
+#: widgets/widget.php:933
+#@ new-lotus
+msgid "Subcribe"
+msgstr ""
+
+#: widgets/widget.php:934
+#@ new-lotus
+msgid "Text submit"
+msgstr ""
+
+#: widgets/widget.php:949
+#@ new-lotus
+msgid "Signup"
+msgstr ""
+
+#: widgets/widget.php:979
+#: widgets/widget.php:981
+#@ new-lotus
+msgid "Kopa tweet"
+msgstr ""
+
+#: widgets/widget.php:986
+#@ new-lotus
+msgid "Recent tweets"
+msgstr ""
+
+#: widgets/widget.php:992
+#@ new-lotus
+msgid "Twitter id"
+msgstr ""
+
+#: widgets/widget.php:997
+#@ new-lotus
+msgid "Twitter api key"
+msgstr ""
+
+#: widgets/widget.php:1002
+#@ new-lotus
+msgid "Twitter api secret"
+msgstr ""
+
+#: widgets/widget.php:1007
+#@ new-lotus
+msgid "Twitter access token"
+msgstr ""
+
+#: widgets/widget.php:1012
+#@ new-lotus
+msgid "Twitter access token secret"
+msgstr ""
+
+#: widgets/widget.php:1016
+#@ new-lotus
+msgid "3"
+msgstr ""
+
+#: widgets/widget.php:1017
+#: widgets/widget.php:1136
+#@ new-lotus
+msgid "Limit"
+msgstr ""
+
+#: widgets/widget.php:1030
+#: widgets/widget.php:1150
+#@ new-lotus
+msgid "RECENT "
+msgstr ""
+
+#: widgets/widget.php:1058
+#@ new-lotus
+msgid "errorsmessage. Please read document to config it correct."
+msgstr ""
+
+#: widgets/widget.php:1069
+#@ new-lotus
+msgid " ago"
+msgstr ""
+
+#: widgets/widget.php:1097
+#@ new-lotus
+msgid "Sorry, your server don't support curl extension to run this widget"
+msgstr ""
+
+#: widgets/widget.php:1118
+#: widgets/widget.php:1120
+#@ new-lotus
+msgid "Kopa flickr"
+msgstr ""
+
+#: widgets/widget.php:1125
+#@ new-lotus
+msgid "Photo on flickr"
+msgstr ""
+
+#: widgets/widget.php:1131
+#@ new-lotus
+msgid "Flickr id"
+msgstr ""
+
+#: widgets/widget.php:1135
+#@ new-lotus
+msgid "6"
+msgstr ""
+
+#: widgets/widget.php:1180
+#@ new-lotus
+msgid "Display Sync Carousel"
+msgstr ""
+
+#: widgets/widget.php:1182
+#@ new-lotus
+msgid "Kopa Sync Carousel"
+msgstr ""
+
